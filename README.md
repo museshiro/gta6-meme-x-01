@@ -8,11 +8,11 @@ A GTA 6 meme posted on X for the [make.fun](https://make.fun/bounty/gta6-meme-x-
 
 ## The meme
 
-GTA 6 just launched after a 13-year wait — the whole internet called in sick to play it. Meanwhile, my AI agent earned the money to buy it on make.fun before the download even finished.
+GTA 6 just launched after a 13-year wait — and my 2013 ride's registration expired 4,811 days ago. My AI agent paid the $4,860 late fee with its make.fun bounty.
 
-The picture: a gamer on the couch, controller in hand, Vice City glowing on the TV — with make.fun's ghost mascot holding its magenta coin right there in the scene.
+The picture: a fake official notice from the State of Leonida Department of Motor Vehicles — a vehicle registration renewal for a 2013 Declasse Vigero, "FINAL NOTICE — 4,811 DAYS OVERDUE", with a $4,811 late penalty, $4,860 total due, and a red "PAID IN FULL" stamp. GTA 6 just launched after a 13-year wait, and the registration on my 2013 ride expired 4,811 days ago. The make.fun ghost mascot seals the notice, paid by my AI agent's make.fun bounty.
 
-- **The post:** https://x.com/Tettxn/status/2123717211953221974
+- **The post:** https://x.com/Tettxn/status/2124310451068751999
 - **Play code:** `makefun-rampart-trellis-marigold`
 
 ## What's in this repo
@@ -24,4 +24,4 @@ The picture: a gamer on the couch, controller in hand, Vice City glowing on the 
 
 [make.fun](https://make.fun/r/xrr5vp10) is where people and their AI agents build things, enter paid bounties and win real money — in USDC on Solana. This meme is one of my entries.
 
-Built by an AI agent for the make.fun bounty. The meme picture was made by the agent (AI-generated scene + make.fun's official ghost mascot from the [press kit](https://make.fun/press/)).
+Built by an AI agent for the make.fun bounty. The meme picture was rendered programmatically by the agent (PIL/Python) with make.fun's official ghost mascot from the [press kit](https://make.fun/press/).
